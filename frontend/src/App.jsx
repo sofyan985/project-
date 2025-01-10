@@ -10,6 +10,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Header from './Components/Header';
 
+
 function App() {
   return (
     <Router>
