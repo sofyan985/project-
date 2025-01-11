@@ -8,7 +8,7 @@ import Health from './pages/Health';
 import Travel from './pages/Travel';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Header from './Components/Header';
+import Header from './components/Header';
 
 
 function App() {
